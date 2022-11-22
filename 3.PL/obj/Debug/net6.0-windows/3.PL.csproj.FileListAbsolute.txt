@@ -1,0 +1,104 @@
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.exe
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.deps.json
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.runtimeconfig.json
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.pdb
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\1.DAL.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\2.BUS.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\2.BUS.pdb
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\1.DAL.pdb
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.csproj.AssemblyReference.cache
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\_3.PL.Form1.resources
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.csproj.GenerateResource.cache
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.AssemblyInfoInputs.cache
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.AssemblyInfo.cs
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.csproj.CoreCompileInputs.cache
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.csproj.CopyComplete
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.dll
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\refint\3.PL.dll
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.pdb
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.genruntimeconfig.cache
+I:\Dự án 1\DuAn1\3.PL\obj\Debug\net6.0-windows\ref\3.PL.dll
+I:\Dự án 1\DuAn1\3.PL\bin\Debug\net6.0-windows\AWSSDK.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.exe
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.deps.json
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.runtimeconfig.json
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\3.PL.pdb
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\AWSSDK.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\1.DAL.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\2.BUS.dll
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\2.BUS.pdb
+E:\DuAn1\3.PL\bin\Debug\net6.0-windows\1.DAL.pdb
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.csproj.AssemblyReference.cache
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\_3.PL.Form1.resources
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.csproj.GenerateResource.cache
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.AssemblyInfoInputs.cache
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.AssemblyInfo.cs
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.csproj.CoreCompileInputs.cache
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.csproj.CopyComplete
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.dll
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\refint\3.PL.dll
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.pdb
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\3.PL.genruntimeconfig.cache
+E:\DuAn1\3.PL\obj\Debug\net6.0-windows\ref\3.PL.dll

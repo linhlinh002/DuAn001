@@ -1,0 +1,30 @@
+I:\Dự án 1\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+I:\Dự án 1\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.dll
+I:\Dự án 1\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+I:\Dự án 1\DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.dll
+I:\Dự án 1\DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.dll
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+I:\Dự án 1\DuAn1\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
+E:\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+E:\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.dll
+E:\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+E:\DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.dll
+E:\DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.dll
+E:\DuAn1\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+E:\DuAn1\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
