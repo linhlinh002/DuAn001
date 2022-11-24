@@ -26,3 +26,17 @@ E:\DuAn1\1.DAL\obj\Debug\net6.0\refint\1.DAL.dll
 E:\DuAn1\1.DAL\obj\Debug\net6.0\1.DAL.pdb
 E:\DuAn1\1.DAL\obj\Debug\net6.0\1.DAL.genruntimeconfig.cache
 E:\DuAn1\1.DAL\obj\Debug\net6.0\ref\1.DAL.dll
+D:\source code\1.DAL\bin\Debug\net6.0\1.DAL.deps.json
+D:\source code\1.DAL\bin\Debug\net6.0\1.DAL.runtimeconfig.json
+D:\source code\1.DAL\bin\Debug\net6.0\1.DAL.dll
+D:\source code\1.DAL\bin\Debug\net6.0\1.DAL.pdb
+D:\source code\1.DAL\obj\Debug\net6.0\1.DAL.csproj.AssemblyReference.cache
+D:\source code\1.DAL\obj\Debug\net6.0\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\source code\1.DAL\obj\Debug\net6.0\1.DAL.AssemblyInfoInputs.cache
+D:\source code\1.DAL\obj\Debug\net6.0\1.DAL.AssemblyInfo.cs
+D:\source code\1.DAL\obj\Debug\net6.0\1.DAL.csproj.CoreCompileInputs.cache
+D:\source code\1.DAL\obj\Debug\net6.0\1.DAL.dll
+D:\source code\1.DAL\obj\Debug\net6.0\refint\1.DAL.dll
+D:\source code\1.DAL\obj\Debug\net6.0\1.DAL.pdb
+D:\source code\1.DAL\obj\Debug\net6.0\1.DAL.genruntimeconfig.cache
+D:\source code\1.DAL\obj\Debug\net6.0\ref\1.DAL.dll

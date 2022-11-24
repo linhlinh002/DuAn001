@@ -28,3 +28,18 @@ E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.dll
 E:\DuAn1\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
 E:\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.pdb
 E:\DuAn1\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
+D:\source code\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+D:\source code\2.BUS\bin\Debug\net6.0\2.BUS.dll
+D:\source code\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+D:\source code\2.BUS\bin\Debug\net6.0\1.DAL.dll
+D:\source code\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+D:\source code\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+D:\source code\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\source code\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+D:\source code\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+D:\source code\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+D:\source code\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+D:\source code\2.BUS\obj\Debug\net6.0\2.BUS.dll
+D:\source code\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+D:\source code\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+D:\source code\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
