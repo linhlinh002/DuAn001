@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DuAn1\\1.DAL\\1.DAL.csproj": {}
+    "D:\\source code\\1.DAL\\1.DAL.csproj": {}
   },
   "projects": {
-    "E:\\DuAn1\\1.DAL\\1.DAL.csproj": {
+    "D:\\source code\\1.DAL\\1.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DuAn1\\1.DAL\\1.DAL.csproj",
+        "projectUniqueName": "D:\\source code\\1.DAL\\1.DAL.csproj",
         "projectName": "1.DAL",
-        "projectPath": "E:\\DuAn1\\1.DAL\\1.DAL.csproj",
+        "projectPath": "D:\\source code\\1.DAL\\1.DAL.csproj",
         "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "E:\\DuAn1\\1.DAL\\obj\\",
+        "outputPath": "D:\\source code\\1.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
