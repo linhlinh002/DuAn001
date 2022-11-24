@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kln5Q995OC92uPYshTyvdIxWn+gaasNinv/gj8eoDdQoHV3OHYcQJvw/vw5VcLHGYzbLnz3AEVk7lXkCE1lIEA==",
+  "dgSpecHash": "DIYCEr2xx2ExJtk60aWp0eswdSBI7ZSKsrLetuDUpc9g8bJXJse3fPfZPm7BYTk9D6Jqqp3FfNMU0RYujiWAIQ==",
   "success": true,
-  "projectFilePath": "E:\\DuAn1\\2.BUS\\2.BUS.csproj",
+  "projectFilePath": "D:\\source code\\2.BUS\\2.BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anthony\\.nuget\\packages\\awssdk\\2.3.55.2\\awssdk.2.3.55.2.nupkg.sha512",
     "C:\\Users\\Anthony\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
